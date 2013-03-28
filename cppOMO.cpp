@@ -1,4 +1,4 @@
-// cppOMO.cpp : Defines the entry point for the console application.
+// Simple c++ program I'm using to teach myself the language.
 //
 
 #include "stdafx.h"
@@ -32,6 +32,7 @@ int main()
 		case 'i':
 		case 'o':
 		case 'u':
+		case 'y':
 			input[i] = '\n';
 		}
 		if(input[i] != '\n')
